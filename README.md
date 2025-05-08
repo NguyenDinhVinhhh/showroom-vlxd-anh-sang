@@ -23,4 +23,4 @@ This is a simple web application that demonstrates how to build a React applicat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/NguyenDinhVinhhh/showroom-vlxd-anh-sang.git
